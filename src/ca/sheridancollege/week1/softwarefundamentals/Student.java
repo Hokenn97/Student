@@ -3,7 +3,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**
  * This class +++Insert Description Here+++
  *
- * @author Kenny Ho --may2020
+ * @author Kenny Ho
  */
 public class Student {
     
